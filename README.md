@@ -1,6 +1,6 @@
-# LeetCode — Python Solutions (Easy)
+# LeetCode — Python Solutions
 
-A curated collection of clean, readable Python solutions to LeetCode Easy problems.
+A curated collection of clean, readable Python solutions to LeetCode problems.
 
 Principles followed:
 - Clear variable names
